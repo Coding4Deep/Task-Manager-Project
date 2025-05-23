@@ -36,8 +36,8 @@
 ## 🛠️ Tech Stack
 
 <div align="center">
-  
-![Tech Stack](https://media.giphy.com/media/VTFUwRSJ3ZgbV4HePb/giphy.gif)
+  <!--
+![Tech Stack](https://media.giphy.com/media/VTFUwRSJ3ZgbV4HePb/giphy.gif) -->
 
 </div>
 
