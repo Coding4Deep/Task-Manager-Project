@@ -3,7 +3,7 @@
 
 <div align="center">
 <!--
-![Task Manager Banner](https://media.giphy.com/media/l378fH55FhOTp4TpS/giphy.gif)
+![Task Manager Banner](https://media.giphy.com/media/l378fH55FhOTp4TpS/giphy.gif) -->
 
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.0-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
