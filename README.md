@@ -2,7 +2,7 @@
 # ✨ Task Management Application ✨
 
 <div align="center">
-  
+<!--
 ![Task Manager Banner](https://media.giphy.com/media/l378fH55FhOTp4TpS/giphy.gif)
 
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=for-the-badge&logo=react&logoColor=white)](https://react.dev/)
