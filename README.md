@@ -80,18 +80,17 @@ npm run dev
 
 ## 🖥️ Usage
 
-<div align="center">
-  
-![App Usage](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
-</div>
-
 1. Navigate to the Tasks page to view and manage your tasks
 2. Create new tasks using the "New Task" button
 3. Filter tasks using the search bar and filter options
 4. Edit or delete tasks as needed
 5. View analytics on the Analytics page
 
+<div align="center">
+  
+![App Usage](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
+
+</div>
 ## 🔜 Upcoming Features
 
 - 🔐 User authentication with login/signup
@@ -114,16 +113,7 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📞 Contact
-
-Project Link: [https://github.com/yourusername/your-repo](https://github.com/yourusername/your-repo)
 
 ---
 
-<div align="center">
-  
-Built with ❤️ using [Lovable](https://lovable.dev)
 
-![Footer Animation](https://media.giphy.com/media/l378eIJ1B64o9YH16/giphy.gif)
-
-</div>
