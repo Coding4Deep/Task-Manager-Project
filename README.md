@@ -19,12 +19,6 @@
 
 ## 🚀 Features
 
-<div align="center">
-  
-![Task Management Features](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
-
-</div>
-
 - ✅ **Task Management**: Create, update, delete, and filter tasks
 - 🔍 **Advanced Filtering**: Filter by status, priority, tags, and text search
 - 📱 **Responsive Design**: Works seamlessly on desktop, tablet, and mobile devices
@@ -32,6 +26,13 @@
 - 📊 **Analytics Dashboard**: Visualize your task completion metrics
 - 🔐 **Authentication**: User login/signup with secure data storage (coming soon)
 - 👥 **Guest Mode**: Try the app without creating an account (coming soon)
+
+  
+<div align="center">
+  
+![Task Management Features](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+
+</div>
 
 ## 🛠️ Tech Stack
 
