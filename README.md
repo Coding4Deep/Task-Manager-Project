@@ -77,10 +77,10 @@
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Coding4Deep/Task-Manager-Project.git
 
 # Navigate to project directory
-cd task-management-app
+cd Task-Manager-Project
 
 # Install dependencies
 npm install
@@ -111,10 +111,10 @@ docker build -t task-manager-ui .
 ### Run the Docker Container
 
 ```bash
-docker run -p 5173:5173 task-manager-ui
+docker run -p 80:80 task-manager-ui
 ```
 
-Your application will be available at `http://localhost:5173`
+Your application will be available at `http://localhost:80`
 
 ---
 
