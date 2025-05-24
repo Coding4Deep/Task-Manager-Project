@@ -58,7 +58,7 @@ const Index = () => {
               Task Management System
             </h1>
             <p className="text-lg text-gray-600">
-              DevOps Portfolio Project - Production Ready
+              DevOps Project - By Deepak Sagar
             </p>
           </div>
           <div className="flex gap-4">
@@ -188,15 +188,24 @@ const Index = () => {
             </CardContent>
           </Card>
         </div>
-
+   
         <CreateTaskDialog
           open={isCreateDialogOpen}
           onOpenChange={setIsCreateDialogOpen}
           onCreateTask={handleCreateTask}
         />
+        
+        <footer className="text-center text-sm text-gray-500 py-6">
+          © {new Date().getFullYear()} Deepak Sagar. All rights reserved.
+        </footer>    
+              
       </div>
     </div>
   );
 };
+
+
+
+
 
 export default Index;
