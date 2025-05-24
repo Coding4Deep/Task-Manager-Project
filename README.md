@@ -49,6 +49,12 @@ A modern and responsive Task Management System built with the latest frontend te
 * **Recharts**: Library for building responsive charts
 * **TanStack Query**: Data fetching and caching layer
 
+<div style="text-align: left; max-width: 300px;">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="App Usage" style="width: 100%; height: auto;" />
+</div>
+
+
+
 ### Development & Tooling
 
 * **ESLint**: Code quality and linting
@@ -168,11 +174,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 
 
-<div align="center">
-  
-![App Usage](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
-</div>
 
 
 
