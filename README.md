@@ -18,7 +18,7 @@
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-Latest-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 
 
-[Report Bug](https://github.com/yourusername/your-repo/issues) • [Request Feature](https://github.com/yourusername/your-repo/issues)
+[Report Bug](https://github.com/Coding4Deep/Task-Manager-Project/issues) • [Request Feature](https://github.com/Coding4Deep/Task-Manager-Project/issues)
 
 </div>
 
