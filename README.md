@@ -24,7 +24,7 @@
 
 ---
 
-![DevOps Portfolio Screenshot(Screenshot.png)
+![DevOps Portfolio Screenshot](Screenshot.png)
 
 ## 🚀 Features
 
