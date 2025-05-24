@@ -12,8 +12,7 @@
 [![shadcn/ui](https://img.shields.io/badge/shadcn/ui-Latest-000000?style=for-the-badge&logo=shadcnui&logoColor=white)](https://ui.shadcn.com/)
 
 **A modern, responsive task management application built with cutting-edge web technologies**
-
-[View Demo](https://lovable.dev/projects/32259ef0-59f6-40ad-bdff-8b430f062124) • [Report Bug](https://github.com/yourusername/your-repo/issues) • [Request Feature](https://github.com/yourusername/your-repo/issues)
+ [Report Bug](https://github.com/yourusername/your-repo/issues) • [Request Feature](https://github.com/yourusername/your-repo/issues)
 
 </div>
 
