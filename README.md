@@ -34,24 +34,31 @@ A modern and responsive Task Management System built with the latest frontend te
 ---
 
 ## 🛠️ Tech Stack
+<div style="display: flex; align-items: flex-start; gap: 20px;">
 
-### Frontend
+  <div style="flex: 1;">
+    <h3>Frontend</h3>
+    <ul>
+      <li><strong>React</strong>: Library for building user interfaces</li>
+      <li><strong>TypeScript</strong>: Typed JavaScript for better developer experience</li>
+      <li><strong>Vite</strong>: Lightning-fast frontend tooling</li>
+      <li><strong>Tailwind CSS</strong>: Utility-first CSS framework</li>
+      <li><strong>shadcn/ui</strong>: Radix-based modern UI components</li>
+      <li><strong>Lucide Icons</strong>: Elegant and consistent icons</li>
+      <li><strong>React Router</strong>: Routing library for single-page apps</li>
+      <li><strong>React Hook Form</strong>: Form management and validation</li>
+      <li><strong>Zod</strong>: TypeScript-first schema validation</li>
+      <li><strong>Recharts</strong>: Library for building responsive charts</li>
+      <li><strong>TanStack Query</strong>: Data fetching and caching layer</li>
+    </ul>
+  </div>
 
-* **React**: Library for building user interfaces
-* **TypeScript**: Typed JavaScript for better developer experience
-* **Vite**: Lightning-fast frontend tooling
-* **Tailwind CSS**: Utility-first CSS framework
-* **shadcn/ui**: Radix-based modern UI components
-* **Lucide Icons**: Elegant and consistent icons
-* **React Router**: Routing library for single-page apps
-* **React Hook Form**: Form management and validation
-* **Zod**: TypeScript-first schema validation
-* **Recharts**: Library for building responsive charts
-* **TanStack Query**: Data fetching and caching layer
+  <div style="max-width: 300px;">
+    <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="App Usage" style="width: 100%; height: auto;" />
+  </div>
 
-<div style="text-align: left; max-width: 300px;">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="App Usage" style="width: 100%; height: auto;" />
 </div>
+
 
 
 
