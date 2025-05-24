@@ -22,6 +22,10 @@
 
 </div>
 
+---
+
+![DevOps Portfolio Screenshot(Screenshot.png)
+
 ## 🚀 Features
 
 - ✅ **Task Management**: Create, update, delete, and filter tasks
