@@ -65,16 +65,6 @@
 </table>
 
 
-
-
-
-### Development & Tooling
-
-* **ESLint**: Code quality and linting
-* **Prettier**: Code formatting
-* **GitHub**: Version control & collaboration
-* **Lovable**: AI-powered dev platform for scaffolding and automation
-
 ---
 
 ## 📦 Installation
