@@ -27,45 +27,68 @@
 - 🔐 **Authentication**: User login/signup with secure data storage (coming soon)
 - 👥 **Guest Mode**: Try the app without creating an account (coming soon)
 
-  
-<div align="center">
-  
-![Task Management Features](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+📝 Task Management App
 
-</div>
+A modern, production-ready Task Management System built with a high-quality frontend using React, Vite, and Tailwind CSS — perfect for practicing real-world DevOps workflows.
 
-## 🛠️ Tech Stack
+🚀 Overview
 
-<div align="center">
-  <!--
-![Tech Stack](https://media.giphy.com/media/VTFUwRSJ3ZgbV4HePb/giphy.gif) -->
+This project is ideal for DevOps engineers looking to practice:
 
-</div>
+Containerization with Docker
 
-### Frontend
-- **[React](https://react.dev/)**: Library for building user interfaces
-- **[TypeScript](https://www.typescriptlang.org/)**: Typed JavaScript for better DX
-- **[Vite](https://vitejs.dev/)**: Next-generation frontend tooling
-- **[Tailwind CSS](https://tailwindcss.com/)**: Utility-first CSS framework
-- **[shadcn/ui](https://ui.shadcn.com/)**: Beautiful UI components built with Radix UI and Tailwind
-- **[Lucide Icons](https://lucide.dev/)**: Beautiful & consistent icons
-- **[React Router](https://reactrouter.com/)**: Client-side routing
-- **[React Hook Form](https://react-hook-form.com/)**: Form validation
-- **[Zod](https://zod.dev/)**: Schema validation
-- **[Recharts](https://recharts.org/)**: Charting library for analytics
-- **[Tanstack Query](https://tanstack.com/query)**: Data fetching and state management
+CI/CD automation (e.g., GitHub Actions, Jenkins)
 
-### Development & Tooling
-- **[ESLint](https://eslint.org/)**: Code linting
-- **[Prettier](https://prettier.io/)**: Code formatting
-- **[GitHub](https://github.com/)**: Version control and collaboration
-- **[Lovable](https://lovable.dev/)**: AI-assisted development platform
+Secret management
 
-## 📦 Installation
+Monitoring (Prometheus & Grafana)
 
-This project is built with [Lovable](https://lovable.dev), making it easy to get started:
+NGINX as a reverse proxy
 
-```bash
+Git workflows and collaboration
+
+It includes a fully functional frontend with CRUD task operations and analytics dashboards.
+
+🛠️ Tech Stack
+
+Frontend
+
+React: Library for building user interfaces
+
+TypeScript: Typed JavaScript for better DX
+
+Vite: Next-generation frontend tooling
+
+Tailwind CSS: Utility-first CSS framework
+
+shadcn/ui: Beautiful UI components built with Radix UI and Tailwind
+
+Lucide Icons: Beautiful & consistent icons
+
+React Router: Client-side routing
+
+React Hook Form: Form validation
+
+Zod: Schema validation
+
+Recharts: Charting library for analytics
+
+Tanstack Query: Data fetching and state management
+
+Development & Tooling
+
+ESLint: Code linting
+
+Prettier: Code formatting
+
+GitHub: Version control and collaboration
+
+Lovable: AI-assisted development platform
+
+📦 Installation
+
+This project is built with Lovable, making it easy to get started:
+
 # Clone the repository
 git clone <repository-url>
 
@@ -77,15 +100,84 @@ npm install
 
 # Start development server
 npm run dev
-```
 
-## 🖥️ Usage
+🐳 Docker Usage
 
-1. Navigate to the Tasks page to view and manage your tasks
-2. Create new tasks using the "New Task" button
-3. Filter tasks using the search bar and filter options
-4. Edit or delete tasks as needed
-5. View analytics on the Analytics page
+The project includes a production-ready Dockerfile that:
+
+Builds the frontend using npm run build
+
+Serves the optimized dist/ folder with NGINX
+
+🧱 Build Docker Image
+
+docker build -t task-manager-frontend .
+
+▶️ Run the Container
+
+docker run -d -p 80:80 task-manager-frontend
+
+Then visit: http://localhost
+
+🖥️ Usage
+
+Navigate to the Tasks page to view and manage your tasks
+
+Create new tasks using the "New Task" button
+
+Filter tasks using the search bar and filter options
+
+Edit or delete tasks as needed
+
+View charts and trends on the Analytics page
+
+🔜 Upcoming Features
+
+🔐 User authentication with login/signup
+
+💾 Cloud data persistence
+
+📱 Progressive Web App (PWA) support
+
+📅 Calendar view for tasks
+
+📊 Enhanced analytics
+
+🤝 Contributing
+
+Contributions are welcome! Feel free to open issues or submit pull requests:
+
+# Fork the project
+git clone <your-fork-url>
+
+# Create your feature branch
+git checkout -b feature/amazing-feature
+
+# Commit your changes
+git commit -m "Add some amazing feature"
+
+# Push to the branch
+git push origin feature/amazing-feature
+
+# Open a Pull Request
+
+📄 License
+
+Distributed under the MIT License. See LICENSE for more information.
+
+📣 Credits
+
+Developed by Deepak Sagar as part of a hands-on DevOps project.
+  
+<div align="center">
+  
+![Task Management Features](https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif)
+
+</div>
+
+
+
+
 
 <div align="center">
   
@@ -93,27 +185,6 @@ npm run dev
 
 </div>
 
-## 🔜 Upcoming Features
-
-- 🔐 User authentication with login/signup
-- 💾 Cloud data persistence
-- 📱 Progressive Web App (PWA) support
-- 📅 Calendar view for tasks
-- 📊 Enhanced analytics
-
-## 🤝 Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## 📄 License
-
-Distributed under the MIT License. See `LICENSE` for more information.
 
 
 ---
